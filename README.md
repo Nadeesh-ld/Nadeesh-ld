@@ -14,7 +14,7 @@
 
 ## 🚀 Projects
 
-✨ **Library Help Desk System**  
+✨ **Library Help Desk web**  
 📌 Java-based management system for handling library support operations  
 
 ✨ **Property Selling Web Application**  
