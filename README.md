@@ -45,8 +45,8 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Nadeesh-ld&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged&v=1" alt="GitHub Stats" />
+<!--<div align="center">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Nadeesh-ld&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged&v=1" alt="GitHub Stats" />-->
   <img height="180em" src="https://streak-stats.demolab.com/?user=Nadeesh-ld&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
 </div>
 
