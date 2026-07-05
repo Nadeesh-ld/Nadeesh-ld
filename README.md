@@ -45,19 +45,22 @@
 ---
 
 ## 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Nadeesh-ld&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,prs_merged&v=1" alt="GitHub Stats" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Nadeesh-ld&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
+</div>
 
-<p align="center">
-<p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=naadesh369x&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<br/>
+
+<div align="center">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nadeesh-ld&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&v=1" alt="Top Languages" />
+</div>
 
 
 
-</p>
 
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Nadeesh-ld&theme=tokyonight&hide_border=true"/>
-</p>
+
+
 
 ---
 ## 💻 Most Used Languages
