@@ -3,18 +3,20 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Nadeesh;Wellcome+To+my+profile" />
 </h1>
-<div align="center">
-  <h3>🏆 GitFut Scouting Card</h3>
-  <a href="https://gitfut.com/Nadeesh-ld" target="_blank">
-    <img src="https://gitfut.com/Nadeesh-ld/opengraph-image" alt="GitFut Player Card" width="600" />
-  </a>
-</div>
+
 
 
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Java+Developer;Web+Application+Builder;Always+Learning+New+Things" />
 </p>
+
+<div align="center">
+  <h3>🏆 GitFut Scouting Card</h3>
+  <a href="https://gitfut.com/Nadeesh-ld" target="_blank">
+    <img src="https://gitfut.com/Nadeesh-ld/opengraph-image" alt="GitFut Player Card" width="600" />
+  </a>
+</div>
 
 ---
 
