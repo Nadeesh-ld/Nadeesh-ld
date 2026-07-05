@@ -52,25 +52,15 @@
 
 <br/>
 
-<div align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nadeesh-ld&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&v=1" alt="Top Languages" />
-</div>
-
-
-
-
 
 
 
 ---
 ## 💻 Most Used Languages
 
-<p align="center">
-  🚀 Most Used Languages
-
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nadeesh-ld&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
+<div align="center">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nadeesh-ld&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&v=1" alt="Top Languages" />
+</div>
 
 ---
 
